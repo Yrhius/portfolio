@@ -1,0 +1,8 @@
+[submodule "samuelgoubyPortfolio/public_web"]
+	path = samuelgoubyPortfolio/public_web
+	url = git@github.com:Yrhius/samuelgouby.github.io.git
+	branch = main
+[submodule "samuelgoubyPortfolio/public"]
+	path = samuelgoubyPortfolio/public
+	url = git@github.com:Yrhius/samuelgouby.github.io.git
+	branch = main

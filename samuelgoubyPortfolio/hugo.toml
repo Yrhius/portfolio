@@ -1,0 +1,5 @@
+baseURL = 'https://samuelgouby.github.io'
+languageCode = 'fr-fr'
+title = 'Portfolio Samuel GOUBY'
+
+theme = 'hugo-theme-color-your-world'
