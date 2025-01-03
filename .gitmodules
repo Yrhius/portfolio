@@ -6,3 +6,7 @@
 	path = samuelgoubyPortfolio/public
 	url = git@github.com:Yrhius/samuelgouby.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/Yrhius/samuelgouby.github.io.git
+	branch = main
