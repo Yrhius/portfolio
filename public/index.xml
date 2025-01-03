@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Samuel GOUBY</title>
-    <link>https://samuelgouby.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 25 Nov 2024 11:09:10 +0100</lastBuildDate><atom:link href="https://samuelgouby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 11:09:10 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Me connaître</title>
-        <link>https://samuelgouby.github.io/posts/mapresentation/</link>
+        <link>http://localhost:1313/posts/mapresentation/</link>
         <pubDate>Mon, 25 Nov 2024 11:09:10 +0100</pubDate>
         
-        <guid>https://samuelgouby.github.io/posts/mapresentation/</guid>
+        <guid>http://localhost:1313/posts/mapresentation/</guid>
         <description>&lt;p&gt;Mes étude: blblbbl&lt;/p&gt;
 &lt;p&gt;Mes compétences: dsfd,dldf&lt;/p&gt;</description>
       </item>
