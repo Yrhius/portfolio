@@ -20,4 +20,13 @@ Comme vous l’avez compris je suis passionné d’informatique mais pas seuleme
 Je suis percussionniste et batteur depuis maintenant 12 ans. La musique m’accompagne tous les jours, elle constitue une partie importante de ma personnalité.
 J’adore les jeux de société, les jeux vidéo, les œuvres de fantaisie et bien d'autres encore …
 
+📱 Mes réseaux:
+
+[Mon linkedin](https://www.linkedin.com/in/samuel-gouby)     
+
+[Mon GitHub](https://github.com/Yrhius)      
+
+[Mon GitLab](https://gitlabinfo.iutmontp.univ-montp2.fr/goubys)
+
+
 ![mon CV](/images/CV_Samuel_GOUBY.jpg)
