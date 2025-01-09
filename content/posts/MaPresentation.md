@@ -19,3 +19,5 @@ Je maîtrise pleinement SQL et PL/SQL ainsi que Java, des langages que j’ai pu
 Comme vous l’avez compris je suis passionné d’informatique mais pas seulement !!
 Je suis percussionniste et batteur depuis maintenant 12 ans. La musique m’accompagne tous les jours, elle constitue une partie importante de ma personnalité.
 J’adore les jeux de société, les jeux vidéo, les œuvres de fantaisie et bien d'autres encore …
+
+![mon CV](/images/CV_Samuel_GOUBY.jpg)
