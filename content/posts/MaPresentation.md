@@ -22,14 +22,11 @@ J’adore les jeux de société, les jeux vidéo, les œuvres de fantaisie et bi
 
 📱 Mes réseaux:
 
-[Mon linkedin](https://www.linkedin.com/in/samuel-gouby)     
-
-[Mon GitHub](https://github.com/Yrhius)      
-
-[Mon GitLab](https://gitlabinfo.iutmontp.univ-montp2.fr/goubys)
+{{< social >}}
 
 
 ![mon CV](/images/CV_Samuel_GOUBY.jpg)
 
 
 {{< contact-form >}}
+
