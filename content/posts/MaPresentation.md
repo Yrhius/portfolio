@@ -26,6 +26,7 @@ J’adore les jeux de société, les jeux vidéo, les œuvres de fantaisie et bi
 
 
 ![mon CV](/images/CV_Samuel_GOUBY.jpg)
+Téléchargez mon CV [ici](https://drive.google.com/file/d/1VnMwLuiebjj01ZYbgR7CMqT0jgcQdju2/view?usp=sharing)  .
 
 
 {{< contact-form >}}
