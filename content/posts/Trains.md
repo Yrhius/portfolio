@@ -1,5 +1,4 @@
 +++
-date = '2024-11-25T11:09:10+01:00'
 title = 'Coder le jeu de société Trains en Java'
 +++
 
