@@ -3,3 +3,68 @@ languageCode = 'fr-fr'
 title = 'Portfolio Samuel GOUBY'
 
 theme = 'hugo-theme-color-your-world'
+
+[params.style]
+
+  isDark = true 
+
+  darkAccent = "#4a86e8"
+  lightAccent = "#4a86e8"
+
+  presets = [ "#1f676b", "#f3a530", "#902b37", "#1dbc91", "#754e85", "#7fc121", "#a8314a", "#ff7433", "#3e6728", "#c063bd" ]
+
+# Contact form shortcode
+[params.contact]
+
+  # formspree.io Form ID
+  formspreeFormId = "example"
+  
+  # Autocomplete [on/off] and min character length for message
+  autoComplete      = false # Default is false
+  messageMinLength  = 100   # Default is 140
+  
+  # Subject
+  # You can set a single value below (and it will cease to be a dropdown),
+  # BUT KEEP IT AS AN ARRAY
+  # It can also be disabled entirely (and it will turn into a text field)
+  subject = [ 'Information', 'Carrière', 'Partenariat']
+
+  # Text placeholders. As usual, comment the lines if you don't want use them
+  # The "subject" below will only be used if the "subject" above doesn't exist (ie.: commented/deleted)
+  [params.contact.placeholder]
+    name    = "Jane Doe"
+    email   = "janedoe@example.com"
+    subject = 'Information'
+    message = "Veuillez entrer votre message"
+
+
+# 404 basique 
+[params.notFound]
+  title         = "Page not found"
+  description   = "This page was not found."
+  paragraph     = "Nothing to see here, buddy."
+
+[params.social.centralized]
+  github        = [ "yrhius" ]
+  # gitlab        = [ "goubys" ]
+  linkedin      = [ "samuel-gouby" ]
+  
+[params.search]
+
+    # Enable search form (at the post list)
+    # The default value is false
+    enable = true
+
+    # Limit search results
+    # The default value is 30
+    maxResults = 15
+
+    # Limit seach field input and pattern matching
+    minLength = 2   # Default is 3
+    maxLength = 42  # Default is 32
+
+    # Optional placeholder for search field
+    placeholder = "ie.: lorem ipsum"
+
+    # Results per page
+    pageResults = 3
