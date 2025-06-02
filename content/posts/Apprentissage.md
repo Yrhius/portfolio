@@ -24,7 +24,7 @@ Une fois la structure établie, il faut se pencher sur le corps du code avec des
 
 **AC 3 Comprendre les enjeux et moyens de sécurisation des données et du code**
 
-Cet apprentissage critique est important pour mon projet de master en cybersécurité. Nous avons pris en compte l’aspect de la sécurité au travers de la cryptographie, de la sécurisation d’un site web ou encore la protection des données du BDD. Cet AC est au centre du [projet de vote](../votomatic/#developpement), ainsi que lors d’un projet de site de ventes.(image)
+Cet apprentissage critique est important pour mon projet de master en cybersécurité. Nous avons pris en compte l’aspect de la sécurité au travers de la cryptographie, de la sécurisation d’un site web ou encore la protection des données du BDD. Cet AC est au centre du [projet de vote](../votomatic/#developpement), ainsi que lors d’un projet de [site de ventes](../siteventephp/#une-base-de-données).
 
 **Niveau:** Acquis
 
@@ -39,25 +39,25 @@ Cet apprentissage n’a pas beaucoup été abordé lors des cours du BUT. Toutef
 
 **AC 1 Optimiser les modèles de données de l’entreprise**
 
-Grâce à des cours avancées de BD et de PLS/SQL, je suis désormais capable d’optimiser des scripts à l'aide de trigger et d’index. Ces pratiques ont été utiles lors du site web de vente et de notre [logiciel de vote](../votomatic/#developpement) qui comportent tous deux une BDD.(lien)(image)
+Grâce à des cours avancées de BD et de PLS/SQL, je suis désormais capable d’optimiser des scripts à l'aide de trigger et d’index. Ces pratiques ont été utiles lors du [site web de vente](../siteventephp/#une-base-de-données) et de notre [logiciel de vote](../votomatic/#developpement) qui comportent tous deux une BDD.(lien)(image)
 
 **Niveau:** Acquis
 
 **AC 2 Assurer la confidentialité des données (intégrité et sécurité)** 
 
-Pour chacun des projets, lié à une base de données, que j’ai pu mener, j’ai assuré la sécurité de base de données de diverses manière : protection face aux injections SQL (site php), vérification des identifiants de connexion ou encore hachage de données sensibles dans la bd notamment pour [l'application de vote](../votomatic/#developpement).
+Pour chacun des projets, lié à une base de données, que j’ai pu mener, j’ai assuré la sécurité de base de données de diverses manière : protection face aux injections SQL ([site php](../siteventephp/#une-base-de-données)), vérification des identifiants de connexion ou encore hachage de données sensibles dans la bd notamment pour [l'application de vote](../votomatic/#developpement).
 
 **Niveau:** Acquis
 
 **AC 3 Organiser la restitution de données à travers la programmation et la visualisation**
 
-Les données récupérées sont bien souvent indigestes, c’est pourquoi elles sont modifiées avant d’être affichées au public. Dans le cas de mon site de vente, les informations sont traitées par un programme php afin d’afficher les informations de façon ergonomique et avec la présence de photo. J’ai également pu confectionner des méthode stockées en PL/SQL qui à partir des données passées en paramètre montre un bel affichage des informations.(photo)
+Les données récupérées sont bien souvent indigestes, c’est pourquoi elles sont modifiées avant d’être affichées au public. Dans le cas de mon [site de vente](../siteventephp/#laffichage), les informations sont traitées par un programme php afin d’afficher les informations de façon ergonomique et avec la présence de photo. J’ai également pu confectionner des méthode stockées en PL/SQL qui à partir des données passées en paramètre montre un bel affichage des informations.(photo)
 
 **Niveau:** Acquis
 
 **AC 4 Manipuler des données hétérogènes**
 
-Après 3 ans à programmer en SQL, j’ai participé à plusieurs projets, interrogé différentes bases de données. Le type de ces données est varié: valeur numérique, chaîne de caractère, dates, identifiant générées automatiquement (site, [vote](../votomatic/#developpement))
+Après 3 ans à programmer en SQL, j’ai participé à plusieurs projets, interrogé différentes bases de données. Le type de ces données est varié: valeur numérique, chaîne de caractère, dates, identifiant générées automatiquement ([site](../siteventephp/#une-base-de-données), [vote](../votomatic/#developpement))
 
 **Niveau:** Acquis
 
@@ -72,7 +72,7 @@ Lors du développement de notre application de [vote](../votomatic/#gestion-de-p
 
 **AC 2 Formaliser les besoins du client et de l’utilisateur** 
 
-Il va de soi que chaque projet disposant d’une phase d’analyse doit passer par cette étape. Avant de coder la moindre ligne de code, j’ai participé à une phase de compréhension des besoins puis de reformulation de ces demandes afin de s’assurer de la bonne perception du besoin. Ce processus à été fait en [stage](../stage/), sur mon site de vente ou encore sur l’application de [vote](../votomatic/#gestion-de-projet).
+Il va de soi que chaque projet disposant d’une phase d’analyse doit passer par cette étape. Avant de coder la moindre ligne de code, j’ai participé à une phase de compréhension des besoins puis de reformulation de ces demandes afin de s’assurer de la bonne perception du besoin. Ce processus à été fait en [stage](../stage/), sur mon [site de vente](../siteventephp/#analyse) ou encore sur l’application de [vote](../votomatic/#gestion-de-projet).
 
 **Niveau:** Acquis
 

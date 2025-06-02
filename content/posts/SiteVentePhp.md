@@ -4,7 +4,23 @@ title = "5. Projet: Site de Vente en Php"
 
 ## Introduction
 
-Lors de ma formation, j'ai eu la chance de créer mon propre site web dynamique à l'aide de Php. Avec deux autres camarades, j'ai imaginé et conçu un site de vente en ligne de sweats. Le site a une partie back-end avec une base de données contenant les informations des marchandises et une partie front-end qui gère l'affichage dynamique des informations.
+Lors de ma formation, j'ai eu la chance de créer mon propre site web dynamique à l'aide de Php. Avec deux autres camarades, j'ai imaginé et conçu un site de vente en ligne de sweats. Le site a une partie back-end avec une base de données contenant les informations des marchandises et une partie front-end qui gère l'affichage dynamique des informations. 
+
+## Analyse
+
+Les fonctionnalités nécessaires sont les suivantes : 
+
+Créer un compte client pour pouvoir enregistrer son panier d'une session à l'autre et pouvoir consulter l'historique de ses commandes ;  
+Pouvoir modifier ses informations clientes ;  
+Pouvoir ajouter et supprimer des produits du panier ;    
+Passer commande, acheter les articles de notre panier et le vider ;  
+Un administrateur doit pouvoir ajouter taille, sweat et stocks ;  
+Un administrateur doit pouvoir modifier certaines informations d'un utilisateur si besoin (Exemple : passer un simple utilisateur en administrateur);  
+Le site doit être intuitif ;  
+Le site doit être ergonomique ;  
+
+
+Après avoir bien analysé les différents besoins des futurs utilisateurs, nous avons pu passer au développement du site.
 
 ## Une base de donnée
 
