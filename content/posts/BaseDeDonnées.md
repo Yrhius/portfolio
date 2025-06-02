@@ -1,5 +1,5 @@
 +++
-title = 'La base de données de Spotify'
+title = '7. Projet: La base de données de Spotify'
 +++
 
 Vous êtes-vous déjà demandé à quoi ressemble la base de données d'une grande entreprise mondiale ? Nous oui ! 

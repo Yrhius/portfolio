@@ -1,5 +1,5 @@
 +++
-title = 'Coder le jeu de société Trains en Java'
+title = '6. Projet: Coder le jeu de société Trains en Java'
 +++
 
 Lors de mon deuxième semestre de BUT Informatique à Montpellier, j'ai eu l'occasion de coder Trains en binome avec un collège.

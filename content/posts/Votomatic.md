@@ -1,5 +1,5 @@
 +++
-title = 'Une application de vote'
+title = '4. Projet: Une application de vote'
 +++
 
 ## Introduction
