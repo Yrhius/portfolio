@@ -1,10 +1,12 @@
 +++
-title = '1. Me connaître'
+title = 'Me connaître'
+description = "petit post pour me présenter"
+type = "post"
 +++
 
 ## En apprendre plus sur moi:
 
-Je m'appelle Samuel GOUBY, je suis étudiant en Informatique à Montpellier à la recherche d’une alternance. Cette recherche s’inscrit pleinement dans mon objectif d’avenir: obtenir un Master en Cybersécurité.
+Je m'appelle Samuel GOUBY, je suis étudiant en Informatique à Montpellier, et alternant au sein de l'équipe DSI du CINES. Cette alternance s’inscrit pleinement dans mon objectif d’avenir: obtenir un Master en Cybersécurité.
 
 #### Mes compétences:
 
@@ -26,13 +28,9 @@ Je suis certain que nous saurons nous entendre, alors n'hésitez pas à me conta
 
 ### Mes réseaux:
 
-{{< social >}}
-
+mes contacts TODO
 
 ![mon CV](/images/CV_Samuel_GOUBY.jpg)
 Téléchargez mon CV [ici](https://drive.google.com/file/d/1VnMwLuiebjj01ZYbgR7CMqT0jgcQdju2/view?usp=sharing)  .
 
-
-(forumlaire contact WIP)
-{{< contact-form >}}
-
+formulaire contact todo

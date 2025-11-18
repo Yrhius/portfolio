@@ -1,5 +1,9 @@
 +++
-title = '3. Mon Stage au Pole numérique et données de la ville de Montpellier'
+title = 'Mon Stage au Pole numérique et données de la ville de Montpellier'
+description = "description de mon stage de 2eme année"
+type = "post"
+date = 2025-01-27
+tags = ["système", "réseau", "sécurité", "supervision"]
 +++
 
 ## Introduction:

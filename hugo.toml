@@ -1,8 +1,87 @@
 baseURL = 'https://yrhius.github.io/'
+defaultContentLanguage = "fr"
 languageCode = 'fr-fr'
+
+theme = 'gokarna'
 title = 'Portfolio Samuel GOUBY'
 
-theme = 'hugo-theme-color-your-world'
+
+[menu]
+  [[menu.main]]
+    # Display name
+    name = "About Me"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/aboutme/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 2
+
+  [[menu.main]]
+    # Display name
+    name = "Posts"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/posts/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+    
+  [[menu.main]]
+    # Unique identifiers are required for menu entries without a name property,
+    # or for menu entries which re-use a name
+    identifier = "github"
+
+    # Absolute URL to external resource
+    url = "https://github.com/Yrhius"
+    weight = 4
+    
+    # Surround the menu entry (or name) with HTML content, such as Feather
+    # icons: https://feathericons.com
+    pre = "<span data-feather='github'></span>"
+    post = ""
+
+  [[menu.main]]
+    # Unique identifiers are required for menu entries without a name property,
+    # or for menu entries which re-use a name
+    identifier = "linkedin"
+
+    # Absolute URL to external resource
+    url = "https://www.linkedin.com/in/samuel-gouby"
+    weight = 5
+    
+    # Surround the menu entry (or name) with HTML content, such as Feather
+    # icons: https://feathericons.com
+    pre = "<span data-feather='linkedin'></span>"
+    post = ""
+
+  [[menu.main]]
+    # Display name
+    name = "Scolaire"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/scolar/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 6
+
+
+
+
+
+
+
+
+
+
 
 [params.style]
 
@@ -12,31 +91,6 @@ theme = 'hugo-theme-color-your-world'
   lightAccent = "#4a86e8"
 
   presets = [ "#1f676b", "#f3a530", "#902b37", "#1dbc91", "#754e85", "#7fc121", "#a8314a", "#ff7433", "#3e6728", "#c063bd" ]
-
-# Contact form shortcode
-[params.contact]
-
-  # formspree.io Form ID
-  formspreeFormId = "example"
-  
-  # Autocomplete [on/off] and min character length for message
-  autoComplete      = false # Default is false
-  messageMinLength  = 100   # Default is 140
-  
-  # Subject
-  # You can set a single value below (and it will cease to be a dropdown),
-  # BUT KEEP IT AS AN ARRAY
-  # It can also be disabled entirely (and it will turn into a text field)
-  subject = [ 'Information', 'Carrière', 'Partenariat']
-
-  # Text placeholders. As usual, comment the lines if you don't want use them
-  # The "subject" below will only be used if the "subject" above doesn't exist (ie.: commented/deleted)
-  [params.contact.placeholder]
-    name    = "Jane Doe"
-    email   = "janedoe@example.com"
-    subject = 'Information'
-    message = "Veuillez entrer votre message"
-
 
 # 404 basique 
 [params.notFound]

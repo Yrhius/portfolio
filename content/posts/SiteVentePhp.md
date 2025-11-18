@@ -1,5 +1,9 @@
 +++
-title = "5. Projet: Site de Vente en Php"
+title = "Projet: Site de Vente en Php"
+description = "site web commercial en trio"
+type = "post"
+date = 2024-10-01
+tags = ["BDD", "Php", "GUI", "sécurité"]
 +++
 
 ## Introduction

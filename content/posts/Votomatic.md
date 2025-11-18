@@ -1,6 +1,10 @@
 +++
-title = '4. Projet: Une application de vote'
-+++
+title = 'Projet: Une application de vote'
+description = "application complexe de vote chiffré"
+type = "post"
+date = 2024-09-01
+tags = ["BDD", "Java", "sécurité", "réseau", "GUI", "math", "modélisation", "poo"]
++++ 
 
 ## Introduction
 

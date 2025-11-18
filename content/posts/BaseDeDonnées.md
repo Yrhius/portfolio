@@ -1,5 +1,9 @@
 +++
-title = '7. Projet: La base de données de Spotify'
+title = 'Projet: La base de données de Spotify'
+description = "conception et réalisation d'une base de donnée capable de contenir des information extraites de spotify"
+type = "post"
+date = 2024-03-01
+tags = ["BDD", "Modélisation", "math"]
 +++
 
 Vous êtes-vous déjà demandé à quoi ressemble la base de données d'une grande entreprise mondiale ? Nous oui ! 
