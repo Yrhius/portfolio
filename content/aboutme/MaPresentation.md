@@ -1,16 +1,15 @@
 +++
 title = 'Me connaître'
+h1 = 'En apprendre plus sur moi:'
 description = "petit post pour me présenter"
-type = "post"
+type = "page"
 +++
-
-## En apprendre plus sur moi:
 
 Je m'appelle Samuel GOUBY, je suis étudiant en Informatique à Montpellier, et alternant au sein de l'équipe DSI du CINES. Cette alternance s’inscrit pleinement dans mon objectif d’avenir: obtenir un Master en Cybersécurité.
 
 #### Mes compétences:
 
-Je maîtrise pleinement SQL et PL/SQL ainsi que Java, des langages que j’ai pu renforcer à travers divers projets dans mon cursus. En accord avec mon objectif, je développe des compétences en système et réseaux, tel que l’utilisation de Linux, la virtualisation, la maîtrise du C, la communication entre machine. J’ai pu approfondir certaines de ces compétences(supervision web, configuration de switch…)  lors de mon stage au sein du Pôle Numérique et données de la ville de Montpellier en tant que Technicien Système et Réseau. Enfin je sais également développer dans d’autres langages orientés web comme HTML, CSS et PHP. 
+Je maîtrise pleinement SQL et PL/SQL ainsi que Java, des langages que j’ai pu renforcer à travers divers projets dans mon cursus. En accord avec mon objectif, je développe des compétences en système et réseaux, tel que l’utilisation de Linux, la virtualisation, la maîtrise du C, la communication entre machine. J’ai pu approfondir certaines de ces compétences(supervision web, configuration de switch…)  lors de mon stage au sein du Pôle Numérique et données de la ville de Montpellier en tant que Technicien Système et Réseau. Enfin je sais également développer dans d’autres langages orientés web comme HTML, CSS et PHP. Je suis actuellement en train d'améliorer mes compétences d'administrateur système et réseau grâce à mon alternant au CINES (Ansible, lemonldap, DNS, ...)
 
 #### Ma personnalité:
 

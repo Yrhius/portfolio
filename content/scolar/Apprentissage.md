@@ -1,8 +1,7 @@
 +++
 title = "Mon portfolio d'apprentissage"
 description =  "présentation scolaire des compétences"
-type = "post"
-date = 2025-11-18
+type = "page"
 +++
 
 

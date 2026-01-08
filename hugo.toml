@@ -12,7 +12,7 @@ title = 'Portfolio Samuel GOUBY'
     name = "About Me"
 
     # Relative URL slug (appended to baseURL)
-    url = "/aboutme/"
+    url = "/aboutme/MaPresentation"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
@@ -67,58 +67,38 @@ title = 'Portfolio Samuel GOUBY'
     name = "Scolaire"
 
     # Relative URL slug (appended to baseURL)
-    url = "/scolar/"
+    url = "/scolar/Apprentissage"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
     weight = 6
 
 
+[params]
+  accentColor = "#FF4D4D"
+  avatarURL = "/images/pdp.png"
+  avatarSize = "size-xl"
+  avatarAltText = "ma photo de profil"
+  dateFormat = "2 January, 2006"
+  footer = "Samuel GOUBY"
+  metaKeywords = ["portfolio", "informatique", "système", "réseau", "Samuel", "Gouby", "étudiant", "Montpellier"]
+  showBackToTopButton = true
+  togglePreviousAndNextButtons = true
+
+    socialIcons = [
+    {name = "github", url = "https://github.com/Yrhius"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/samuel-gouby"},
+    #{name = "rootme", url = "https://www.root-me.org/Yrhius"},
+  ]
+
+  #highlight code
+  pygmentsStyle = "aura-theme-dark"
 
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
 
 
-
-
-
-
-
-[params.style]
-
-  isDark = true 
-
-  darkAccent = "#4a86e8"
-  lightAccent = "#4a86e8"
-
-  presets = [ "#1f676b", "#f3a530", "#902b37", "#1dbc91", "#754e85", "#7fc121", "#a8314a", "#ff7433", "#3e6728", "#c063bd" ]
-
-# 404 basique 
-[params.notFound]
-  title         = "Page not found"
-  description   = "This page was not found."
-  paragraph     = "Nothing to see here, buddy."
-
-[params.social.centralized]
-  github        = [ "yrhius" ]
-  # gitlab        = [ "goubys" ]
-  linkedin      = [ "samuel-gouby" ]
-  
-[params.search]
-
-    # Enable search form (at the post list)
-    # The default value is false
-    enable = true
-
-    # Limit search results
-    # The default value is 30
-    maxResults = 15
-
-    # Limit seach field input and pattern matching
-    minLength = 2   # Default is 3
-    maxLength = 42  # Default is 32
-
-    # Optional placeholder for search field
-    placeholder = "ie.: lorem ipsum"
-
-    # Results per page
-    pageResults = 3

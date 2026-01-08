@@ -2,8 +2,9 @@
 title = 'Projet: Une application de vote'
 description = "application complexe de vote chiffré"
 type = "post"
-date = 2024-09-01
-tags = ["BDD", "Java", "sécurité", "réseau", "GUI", "math", "modélisation", "poo"]
+date = 2025-06-01
+showTableOfContents = true
+tags = ["BDD", "Java", "sécurité", "réseau", "GUI", "math", "modélisation", "ProgObjet"]
 +++ 
 
 ## Introduction
@@ -64,7 +65,8 @@ Début septembre: lancement du projet
 16/10/24: rendu de sprint 1, marque le début du sprint 2
 12/11/24: rendu de sprint 2, marque le début du sprint 3
 9/12/24: rendu de sprint 3, marque le début du sprint 4, le sprint final
-09/01/25: livraison du projet 
+09/01/25: livraison d'une première version du projet 
+01/06/25: livraison d'une version plus poussée et sécurisée
 
 
 Nous avons utilisé GitLab pour notre prochain. Nous avons créé les User stories sous forme d’Issues que nous avons pu attribuer à chacun et trier selon des labels comme l’état de la user story, sur quoi elle porte, son effort, etc. Nous avons pu créer différentes branches, afin de séparer notre travail et de pouvoir travailler sur plusieurs Users stories en même temps sans se gêner les uns les autres. Voici différentes branches qui ont été créées au cours du projet.
