@@ -3,7 +3,7 @@ title = 'Projet: Coder le jeu de société Trains en Java'
 description = "jeux de société train codé en binome"
 type = "post"
 date = 2024-02-01
-tags = ["ProgObjet", "Java", "GUI", "math"]
+tags = ["ProgObjet", "Java", "GUI", "math", "git"]
 showTableOfContents = true
 +++
 

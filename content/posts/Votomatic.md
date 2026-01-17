@@ -4,7 +4,7 @@ description = "application complexe de vote chiffré"
 type = "post"
 date = 2025-06-01
 showTableOfContents = true
-tags = ["BDD", "Java", "sécurité", "réseau", "GUI", "math", "modélisation", "ProgObjet"]
+tags = ["BDD", "Java", "sécurité", "réseau", "GUI", "math", "modélisation", "ProgObjet", "git", "crypto", "multithreads"]
 +++ 
 
 ## Introduction

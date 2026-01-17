@@ -87,9 +87,10 @@ title = 'Portfolio Samuel GOUBY'
 
     socialIcons = [
     {name = "github", url = "https://github.com/Yrhius"},
+    {name = "gitlab", url = "https://gitlabinfo.iutmontp.univ-montp2.fr/goubys"},
     {name = "linkedin", url = "https://www.linkedin.com/in/samuel-gouby"},
     #{name = "rootme", url = "https://www.root-me.org/Yrhius"},
-  ]
+  ] 
 
   #highlight code
   pygmentsStyle = "aura-theme-dark"
@@ -100,5 +101,3 @@ title = 'Portfolio Samuel GOUBY'
     startLevel = 1
     endLevel = 3
     ordered = false
-
-
